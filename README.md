@@ -1,2 +1,1 @@
-# TinDog
-HTML/CSS (heavy CSS)
+TinDog Starting Files
